@@ -179,5 +179,5 @@ start = "vscode-css-language-server --stdio"
 requiredFiles = [".replit", "replit.nix", ".config"]
 
 [auth]
-pageEnabled = true
+pageEnabled = false
 buttonEnabled = false
