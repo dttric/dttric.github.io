@@ -1,0 +1,6 @@
+[book]
+authors = ["dttric"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Айсберг по Лягушке"
