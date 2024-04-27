@@ -4,3 +4,9 @@ language = "ru"
 multilingual = false
 src = "src"
 title = "Айсберг по Лягушке"
+
+[output.html.playground]
+runnable = false
+
+[output.html]
+mathjax-support = true
