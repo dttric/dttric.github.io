@@ -1,7 +1,7 @@
 ## Всем привет! Это [[вставить 1 из 3 имен]](https://github.com/dttric).
 > *ебаный джун, ну умный типа, да.*
 
-Обо мне:
+### Обо мне:
 ```json
 {
     "полит позиция": "нейтралитет",
@@ -11,6 +11,5 @@
 }
 ```
 
-Соц. Сети:
-
-[![тг](https://badgen.net/static/telegram/@dknsilent?icon&label)](https://t.me/dknsilent) [![тгк](https://badgen.net/static/telegram/%D0%B3%D1%80%D1%8F%D0%B7%D0%BD%D0%BE%D0%B5%20%D0%B1%D0%B5%D0%BB%D1%8C%D0%B5%20%D0%BB%D1%8F%D0%B3%D1%83%D1%88%D0%BA%D0%B8?icon&label)](https://t.me/dknshitpost) [![гитхаб](https://badgen.net/static/github/dttric/gray?icon&label)](https://github.com/dttric)
+### Найти меня:
+[![тг](https://badgen.net/static/telegram/@dknsilent?icon&label)](https://t.me/dknsilent) [![гитхаб](https://badgen.net/static/github/dttric/gray?icon&label)](https://github.com/dttric) [![стим](https://badgen.net/static/steam/%D1%81%D0%B0%D0%B9%D0%BB%D0%B5%D0%BD%D1%82/6545d1?icon=https://raw.githubusercontent.com/dttric/dttric.github.io/main/src/icons/steam.svg&label)](https://steamcommunity.com/id/toadtg3/)
