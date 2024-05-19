@@ -29,43 +29,7 @@
             }
         </style>
     </noscript>
-    <div class="container" id="content">
-        <div class="row">
-        </div>
-        <div class="row">
-            <div
-            class="col-2 lh-lg font-monospace"
-            link="#ffffff"
-            vlink="#ffffff"
-            alink="#ffffff"
-        >
-            <div class="row">
-                <div class="col-1">
-                    <a href="https://github.com/dttric/"i class="bi bi-github"></i></a><br>
-                    <a href="https://steamcommunity.com/id/toadtg/"><i class="bi bi-steam"></i></a>
-                </div>
 
-                <div class="col-1">
-                    <a href="https://www.youtube.com/channel/UCnHlbudQN0nWYGZytdPNYiQ"><i class="bi bi-youtube"></i></a><br>
-                    <a href="mailto:8bayrggwi@mozmail.com"><i class="bi bi-envelope"></i></a>
-                </div>
-            </div>
-            <a href="" id="ayarei">ayarei</a><br>
-            <a href="" id="calculex">calculex</a><br>
-            <a href="" id="dknhttp">dknhttp</a><br>
-            <a href="" id="grades">grades</a>
-        </div>
-        <script src="nicknamechange.js"></script>
-        <div class="col-8">
-            <div id="mainpart" class="user-select-none">
-                <span id="nicknamechange" style="font-size: 100px">dttric</span>
-                <span style="color:rgb(90, 90, 90); font-size: 14px">imagine/code/push!</span>
-            </div>
-        </div>
-        </div>
-    </div>
-
-    <!-- КАК СУКА ЦЕНТРИТЬ ДИВ -->
     <style>
         @media screen and (min-width: 535px) {
             #mainpart {
@@ -74,12 +38,47 @@
                 align-items: center;
                 height: 70vh;
             }
+            .mobile { display: none !important}
         }
         @media screen and (max-width: 535px) {
             #mainpart { display: none }
         }
     </style>
 
+    <div class="container" id="content">
+        <div class="row">
+        </div>
+        <div class="row">
+            <div class="col-2">
+                <div class="lh-lg font-monospace">
+                    <div class="row">
+                        <div class="col-1">
+                            <a href="https://github.com/dttric/"i class="bi bi-github"></i></a><br>
+                            <a href="https://steamcommunity.com/id/toadtg/"><i class="bi bi-steam"></i></a>
+                        </div>
+                        <div class="col-1">
+                            <a href="https://www.youtube.com/channel/UCnHlbudQN0nWYGZytdPNYiQ"><i class="bi bi-youtube"></i></a><br>
+                            <a href="mailto:8bayrggwi@mozmail.com"><i class="bi bi-envelope"></i></a>
+                        </div>
+                    </div>
+                    <a href="" id="ayarei">ayarei</a><br>
+                    <a href="" id="calculex">calculex</a><br>
+                    <a href="" id="dknhttp">dknhttp</a><br>
+                    <a href="" id="grades">grades</a>
+                </div>
+                <span class="mobile" id="mobilenicknamechange" style="font-size: 60px" class="user-select-none">dttric</span><br>
+                <span class="mobile" style="color:rgb(102, 102, 102); font-size: 14px">imagine/code/push!</span>
+            </div>
+            <script src="nicknamechangemobile.js"></script>
+            <script src="nicknamechange.js"></script>
+            <div class="col-8">
+                <div id="mainpart" class="user-select-none">
+                    <span id="nicknamechange" style="font-size: 100px">dttric</span>
+                    <span style="color:rgb(102, 102, 102); font-size: 14px">imagine/code/push!</span>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- ссылки на кнопки -->
     <script>
         let github = "https://github.com/dttric"
