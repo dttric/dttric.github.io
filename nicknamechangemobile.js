@@ -1,5 +1,5 @@
 var mobilenameIndex = 0;
-var mobilenicknames = ["dttric", "cайлент", "лягушка", "toadtg"];
+var mobilenicknames = ["dttric", "cайлент", "toadtg"];
 
 function changemobileNameAutomatically() {
     $("#mobilenicknamechange").fadeOut(500, function() {
